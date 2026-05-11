@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/pragadheeshwar-d/Leetcode/tree/master/0704-binary-search) |
+| [2553-separate-the-digits-in-an-array](https://github.com/pragadheeshwar-d/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/pragadheeshwar-d/Leetcode/tree/master/0067-add-binary) |
+| [2553-separate-the-digits-in-an-array](https://github.com/pragadheeshwar-d/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
