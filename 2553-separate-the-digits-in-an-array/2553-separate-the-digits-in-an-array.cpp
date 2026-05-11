@@ -1,0 +1,17 @@
+class Solution {
+public:
+    vector<int> separateDigits(vector<int>& nums) {
+        int n = nums.size();
+        vector<int>ans;
+        for(int x:nums){
+            vector<int> temp;
+            while (x > 0) {
+                temp.push_back(x % 10);
+                x /= 10;
+            }
+            reverse(temp.begin(), temp.end());
+            ans.insert(ans.end(), temp.begin(), temp.end());
+        }
+        return ans;
+    }
+};
